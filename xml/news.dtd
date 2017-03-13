@@ -1,0 +1,5 @@
+<!ELEMENT news (item+)>
+<!ELEMENT item (title, description, pubDate)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT pubDate (#PCDATA)>

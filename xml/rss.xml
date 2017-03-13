@@ -1,0 +1,46 @@
+<rss version="2.0">
+<channel>
+  <title>Ma Boutique Perso</title>
+  <description>news de maBoutiquePerso</description>
+  <link>http://localhost/maBoutiquePerso</link>
+  <pubDate>2007-09-15</pubDate>
+  <language>fr</language>
+  <image>
+    <title></title>
+    <url>http://localhost/maBoutiquePerso/images/img.jpg</url>
+    <link>http://localhost/maBoutiquePerso/images/img.jpg</link>
+    <width>120</width>
+    <height>150</height>
+  </image>
+  <item>
+    <title>vente</title>
+    <description>Casquette de Mel Gibson !</description>
+    <pubDate>2009-07-23</pubDate>
+  </item>
+  <item>
+    <title>vente</title>
+    <description>Mug de Nathalie Portmann</description>
+    <pubDate>2009-07-18</pubDate>
+  </item>
+  <item>
+    <title>vente</title>
+    <description>DVD de Matrix (films + bonus) édition limitée</description>
+    <pubDate>2009-07-15</pubDate>
+  </item>
+  <item>
+    <title>information</title>
+    <description>bon plan pour récupérer une casquette collector</description>
+    <pubDate>2009-07-14</pubDate>
+  </item>
+  <item>
+    <title>information</title>
+    <description>toujours à la recherche de Mugs collectors</description>
+    <pubDate>2009-07-13</pubDate>
+  </item>
+  <item>
+    <title>information</title>
+    <description>RV : peut-être un collector à la clé</description>
+    <pubDate>2009-07-12</pubDate>
+  </item>
+</channel>
+</rss>
